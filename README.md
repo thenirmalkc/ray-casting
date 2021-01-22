@@ -1,1 +1,1 @@
-# ray-casting
+# Ray Casting
